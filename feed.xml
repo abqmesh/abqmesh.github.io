@@ -3,7 +3,7 @@
     <title>ABQM.NET</title>
     <link href="https://www.abqm.net/feed.xml" rel="self" />
     <link href="https://www.abqm.net" />
-    <updated>2024-03-24T05:07:55-06:00</updated>
+    <updated>2024-03-24T05:40:52-06:00</updated>
     <author>
         <name>Aaron Estrada</name>
     </author>
@@ -72,7 +72,7 @@
 <hr>
 <h2 id="join-the-network">How can I join the network?</h2>
 <ol>
-<li>Get a Meshtastic Radio.<br>You can build one yourself for about $35. The official Meshtastic page keeps a current list of <a href="https://meshtastic.org/docs/hardware/devices/">Supported Hardware.</a> The LILYGO T-Echo is a good first Meshtastic radio, as it costs around $70 and is ready to go out of the box (besides having to flash the firmware).<br>You can also buy a pre-built battery-powered radio for between $50-$100 on Etsy or eBay - these usually have 3D printed cases.<br>If you can afford it, and have a place to mount it outside, consider buying a pre-built solar-powered node for between $100 and $200 on Etsy and mount it as high off the ground as you can. Alternatively you can build your own. (The team at <a href="https://austinmesh.org/#building-a-solar-powered-repeater" target="_blank" rel="noopener noreferrer">Austin Mesh</a> has a lot of experience with this so far earned via several generation of deployments. We hope to add our experience to the pool of collective knowledge as we learn more about deploying nodes in our climate here in Albuquerque.)</li>
+<li>Get a Meshtastic Radio.<br>You can build one yourself for about $35. The official Meshtastic page keeps a current list of <a href="https://meshtastic.org/docs/hardware/devices/">Supported Hardware.</a> The LILYGO T-Echo is a good first Meshtastic radio, as it costs around $70 and is ready to go out of the box (besides having to flash the firmware).<br>You can also buy a pre-built battery-powered radio for between $50-$100 on Etsy or eBay - these usually have 3D printed cases.<br>If you can afford it, and have a place to mount it outside, consider buying a pre-built solar-powered node for between $100 and $200 on Etsy and mount it as high off the ground as you can. Alternatively you can build your own. (The team at <a href="https://austinmesh.org/#building-a-solar-powered-repeater" target="_blank" rel="noopener noreferrer">Austin Mesh</a> has a lot of experience at this point, earned via several generations of deployments. We hope to add our experience to the pool of collective knowledge as we learn more about deploying nodes in our climate here in Albuquerque.)</li>
 <li>Download the <a href="https://meshtastic.org/docs/software">Meshtastic App</a> on your iPhone or Android.</li>
 <li>Pair your radio to your phone with Bluetooth.</li>
 <li>Open the Meshtastic app and say hi on the default open channel "LongFast"!</li>
