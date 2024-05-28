@@ -3,12 +3,36 @@
     <title>ABQM.NET</title>
     <link href="https://www.abqm.net/feed.xml" rel="self" />
     <link href="https://www.abqm.net" />
-    <updated>2024-03-27T19:44:06-06:00</updated>
+    <updated>2024-05-27T20:30:53-06:00</updated>
     <author>
         <name>Aaron Estrada</name>
     </author>
     <id>https://www.abqm.net</id>
 
+    <entry>
+        <title>ARCC Presentation Slides</title>
+        <author>
+            <name>Aaron Estrada</name>
+        </author>
+        <link href="https://www.abqm.net/arcc-presentation-slides.html"/>
+        <id>https://www.abqm.net/arcc-presentation-slides.html</id>
+            <category term="Blog"/>
+
+        <updated>2024-05-27T20:24:04-06:00</updated>
+            <summary>
+                <![CDATA[
+                    Here are the slides from the presentation we made to the Amateur Radio Caravan Club. ARCC is a very friendly and experienced HAM club who had lots of great input on how to operate radio equipment in harsh outdoor environments. We'll have more to report&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>Here are the slides from the presentation we made to the <a href="https://caravanradio.org">Amateur Radio Caravan Club</a>. </p>
+<div class="post__iframe"><iframe loading="lazy" width="960" height="584" src="https://docs.google.com/presentation/d/e/2PACX-1vSavEepcemTl_vr4UD_zgjYXNc8n5qG2PMB9sDuAl3sz8tppT0AwebAyoBdt30LbyRksCHZi4kBw4cM/embed?start=false&amp;loop=false&amp;delayms=5000" frameborder="0" allowfullscreen="allowfullscreen" mozallowfullscreen="mozallowfullscreen" webkitallowfullscreen="webkitallowfullscreen"></iframe></div>
+<p>ARCC is a very friendly and experienced HAM club who had lots of great input on how to operate radio equipment in harsh outdoor environments. We'll have more to report once we have had a chance to put some of their advice into practice. Our next test is to see if a small LoRa radio can even stand up up to all the RF noise near the "Steel Forest" on Sandia Peak.</p>
+<p> </p>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>About the Mesh</title>
         <author>
